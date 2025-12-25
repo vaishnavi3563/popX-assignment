@@ -1,0 +1,45 @@
+[debug] [2025-12-25T04:36:33.993Z] ----------------------------------------------------------------------
+[debug] [2025-12-25T04:36:33.995Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Anu\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-12-25T04:36:33.996Z] CLI Version:   15.1.0
+[debug] [2025-12-25T04:36:33.996Z] Platform:      win32
+[debug] [2025-12-25T04:36:33.996Z] Node Version:  v22.20.0
+[debug] [2025-12-25T04:36:33.996Z] Time:          Thu Dec 25 2025 10:06:33 GMT+0530 (India Standard Time)
+[debug] [2025-12-25T04:36:33.996Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\popX-assignment
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] 
+[debug] [2025-12-25T04:36:40.613Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-25T04:36:40.613Z] > authorizing via signed-in user (vyshuvaishnavi3563@gmail.com)
+[debug] [2025-12-25T04:36:40.614Z] Checked if tokens are valid: true, expires at: 1766640837023
+[debug] [2025-12-25T04:36:40.614Z] Checked if tokens are valid: true, expires at: 1766640837023
+[debug] [2025-12-25T04:36:40.615Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/popx-react-project [none]
+[debug] [2025-12-25T04:36:41.082Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/popx-react-project 200
+[debug] [2025-12-25T04:36:41.083Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/popx-react-project {"projectId":"popx-react-project","projectNumber":"31147944350","displayName":"popX-react-project","name":"projects/popx-react-project","resources":{"hostingSite":"popx-react-project"},"state":"ACTIVE","etag":"1_ac0ee986-e1fe-4152-b185-ead59acfbf5a"}
+[info] i  Using project popx-react-project (popX-react-project) . 
+[info] 
+=== Hosting Setup
+[debug] [2025-12-25T04:36:41.094Z] Checked if tokens are valid: true, expires at: 1766640837023
+[debug] [2025-12-25T04:36:41.094Z] Checked if tokens are valid: true, expires at: 1766640837023
+[debug] [2025-12-25T04:36:41.095Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/popx-react-project [none]
+[debug] [2025-12-25T04:36:41.413Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/popx-react-project 200
+[debug] [2025-12-25T04:36:41.413Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/popx-react-project {"projectId":"popx-react-project","projectNumber":"31147944350","displayName":"popX-react-project","name":"projects/popx-react-project","resources":{"hostingSite":"popx-react-project"},"state":"ACTIVE","etag":"1_ac0ee986-e1fe-4152-b185-ead59acfbf5a"}
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 

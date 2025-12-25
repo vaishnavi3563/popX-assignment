@@ -19,7 +19,7 @@ qualifier assignment.
 - CSS
 
 ## Live Demo
-https://e-commerce-application-9b563.web.app
+https://popx-react-project.web.app/
 
 ## GitHub Repo
 https://github.com/vaishnavi3563/popX-assignment
